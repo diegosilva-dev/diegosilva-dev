@@ -13,12 +13,12 @@ I'm a frontend and backend developer.
 
 - PostGraduate: Software Engineering
 - PostGraduate: MBA in Management Information Technology
-- Graduate: Analysis and systems development
+- Graduate: Analysis and Systems Development
 
 
 ### 🏆️ Achievements
 
-- NET - MRV .NET Developer 
+- MRV .NET Developer 
 - Localiza Labs .NET Developer
 - Java Developer
 - JavaScript Game Developer
